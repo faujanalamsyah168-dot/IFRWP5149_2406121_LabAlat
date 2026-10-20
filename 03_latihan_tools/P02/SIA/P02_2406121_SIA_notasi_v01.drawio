@@ -1,0 +1,31 @@
+<mxfile host="65bd71144e">
+    <diagram id="I-jSjY3kdVbBXCmy0aIK" name="Page-1">
+        <mxGraphModel dx="1235" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="9PhzbWjLesXjOlpSuZLD-5" parent="1" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;recursiveResize=0;container=1;collapsible=0;width=160;" value="Sistem Informasi Akademik" vertex="1">
+                    <mxGeometry height="600" width="490" x="210" y="180" as="geometry"/>
+                </mxCell>
+                <mxCell id="9PhzbWjLesXjOlpSuZLD-9" parent="9PhzbWjLesXjOlpSuZLD-5" style="ellipse;" value=" Kelola jadwal kuliah. " vertex="1">
+                    <mxGeometry height="90" width="135" x="280" y="295" as="geometry"/>
+                </mxCell>
+                <mxCell id="9PhzbWjLesXjOlpSuZLD-14" parent="9PhzbWjLesXjOlpSuZLD-5" style="ellipse;" value=" lihat jadwal kuliah. " vertex="1">
+                    <mxGeometry height="90" width="135" x="70" y="225" as="geometry"/>
+                </mxCell>
+                <mxCell id="9PhzbWjLesXjOlpSuZLD-15" edge="1" parent="1" source="9PhzbWjLesXjOlpSuZLD-7" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="9PhzbWjLesXjOlpSuZLD-14">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9PhzbWjLesXjOlpSuZLD-7" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Mahasiswa&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="30" x="110" y="420" as="geometry"/>
+                </mxCell>
+                <mxCell id="9PhzbWjLesXjOlpSuZLD-18" edge="1" parent="1" source="9PhzbWjLesXjOlpSuZLD-17" style="edgeStyle=none;html=1;endArrow=none;endFill=0;" target="9PhzbWjLesXjOlpSuZLD-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="9PhzbWjLesXjOlpSuZLD-17" parent="1" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" value="Admin&lt;div&gt;Akademik&lt;/div&gt;" vertex="1">
+                    <mxGeometry height="60" width="30" x="780" y="490" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

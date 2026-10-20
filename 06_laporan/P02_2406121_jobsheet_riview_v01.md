@@ -1,0 +1,6 @@
+| No. | Temuan               | Perbaikan yang Diperlukan                                                     | Alasan                                                                              |
+|:----|:---------------------|:------------------------------------------------------------------------------|:------------------------------------------------------------------------------------|
+| 4   | Sistem laboratorium  | Judul sistem laboratorium seharusnya diubah menjadi sistem informasi akademik | Karena pada tugas yang sebenarnya, sistem tersebut adalah sistem informasi akademik |
+| 2   | Lihat jadwal         | Fungsi lihat jadwal seharusnya digambarkan dengan bentuk bulat                | Karena lihat jadwal kuliah merupakan sebuah *use case*                              |
+| 3   | Kelola jadwal kuliah | Kelola jadwal kuliah seharusnya dihubungkan dengan admin akademik             | Karena pihak yang memang mengelola jadwal tersebut adalah admin akademik            |
+| 1   | Aktor mahasiswa      | Aktor mahasiswa seharusnya berada di luar batas sistem                        | Karena aktor bukan termasuk sistem, tetapi pihak yang menjalankan sistem            |
