@@ -2,16 +2,14 @@
 Mahasiswa mengajukan peminjaman peralatan dengan memilih alat,jumlah, dan rentang waktu. Sistem memeriksa ketersediaan. Jika tersedia dan data lengkap, sistem menyimpan pengajuan berstatus menunggu keputusan. Pada tampilan konfirmasi, mahasiswa dapat memilih mencetak bukti pengajuan. Petugas mengelola data peralatan serta menyetujui atau menolak pengajuan. Kepala laboratorium melihat laporan peminjaman
 
 <!-- Tabel Kebutuhan -->
-| ID       | Nama use case               | Peran dalam model                |
-| -------- | --------------------------- | -------------------------------- |
-| LAB-UC01 | Lihat ketersediaan          | peralatan Fungsi utama mahasiswa |
-| LAB-UC02 | Kelola data                 | peralatan Fungsi utama petugas   |
-| LAB-UC03 | Ajukan peminjaman           | Fungsi utama mahasiswa           |
-| LAB-UC04 | Periksa ketersediaan        | Perilaku yang disertakan UC03    |
-| LAB-UC05 | Cetak bukti pengajuan       | Tambahan bersyarat pada UC03     |
-| LAB-UC06 | Proses keputusan peminjaman | Fungsi utama petugas             |
-| LAB-UC07 | Lihat laporan peminjaman    | Fungsi utama kepala laboratorium |
-
+|  ID   |                                            Kebutuhan                                            |
+|-------|-------------------------------------------------------------------------------------------------|
+|LAB-R01|                         Mahasiswa dapat melihat ketersediaan peralatan                          |
+|LAB-R02|                             Petugas dapat mengelola data peralatan                              |
+|LAB-R03|Mahasiswa dapat mengajukan peminjaman; sistem memeriksa ketersediaan sebelum menyimpan pengajuan |
+|LAB-R04|            Mahasiswa dapat mencetak bukti pada konfirmasi pengajuan jika memilihnya             |
+|LAB-R05|                  Petugas dapat menetapkan persetujuan atau penolakan pengajuan                  |
+|LAB-R06|                      Kepala laboratorium dapat melihat laporan peminjaman                       |
 
 <!-- Batasan Sistem -->
 Batas sistem dan aturan:

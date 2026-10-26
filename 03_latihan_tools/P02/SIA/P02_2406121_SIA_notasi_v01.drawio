@@ -1,6 +1,6 @@
 <mxfile host="65bd71144e">
     <diagram id="I-jSjY3kdVbBXCmy0aIK" name="Page-1">
-        <mxGraphModel dx="1235" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+        <mxGraphModel dx="779" dy="1454" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
             <root>
                 <mxCell id="0"/>
                 <mxCell id="1" parent="0"/>
@@ -10,7 +10,7 @@
                 <mxCell id="9PhzbWjLesXjOlpSuZLD-9" parent="9PhzbWjLesXjOlpSuZLD-5" style="ellipse;" value=" Kelola jadwal kuliah. " vertex="1">
                     <mxGeometry height="90" width="135" x="280" y="295" as="geometry"/>
                 </mxCell>
-                <mxCell id="9PhzbWjLesXjOlpSuZLD-14" parent="9PhzbWjLesXjOlpSuZLD-5" style="ellipse;" value=" lihat jadwal kuliah. " vertex="1">
+                <mxCell id="9PhzbWjLesXjOlpSuZLD-14" parent="9PhzbWjLesXjOlpSuZLD-5" style="ellipse;" value=" Lihat Jadwal Kuliah. " vertex="1">
                     <mxGeometry height="90" width="135" x="70" y="225" as="geometry"/>
                 </mxCell>
                 <mxCell id="9PhzbWjLesXjOlpSuZLD-15" edge="1" parent="1" source="9PhzbWjLesXjOlpSuZLD-7" style="edgeStyle=none;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" target="9PhzbWjLesXjOlpSuZLD-14">

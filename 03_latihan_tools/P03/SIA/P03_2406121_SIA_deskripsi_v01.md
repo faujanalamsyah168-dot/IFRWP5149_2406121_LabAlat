@@ -36,7 +36,7 @@
 | **Pemicu** | Mahasiswa memilih fungsi pengajuan KRS |
 | **Prasyarat** | Mahasiswa telah terautentikasi; data mata kuliah dan jadwal tersedia |
 | **Include** | SIA-UC04 Validasi KRS |
-| **Extension Point** | Bukti pengajuan tersedia, pada langkah 6 |
+| **Extension Point** | Konfirmasi penyimpanan KRS |
 | **Extend** | SIA-UC05 jika `[mahasiswa memilih mengunduh bukti]` |
 | **Pascakondisi Berhasil** | Pengajuan KRS tersimpan dengan status Menunggu Persetujuan Dosen Wali |
 | **Pascakondisi Gagal** | Tidak ada pengajuan KRS baru yang tersimpan |

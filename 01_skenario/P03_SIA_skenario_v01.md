@@ -21,20 +21,21 @@ Batas dan asumsi:
 • Pembayaran, pengisian nilai, dan implementasi basis data berada di luar tugas.
 
 <!-- Identifikasi Aktor -->
-| Aktor      | Tujuan terhadap sistem                                                       |
-| ---------- | ---------------------------------------------------------------------------- |
-| Mahasiswa  | Melihat jadwal kuliah, mengajukan KRS, dan mengunduh bukti pengajuan         |
-| Dosen Wali | Memproses persetujuan atau penolakan KRS serta memberikan catatan keputusan. |
+| Aktor        | Tujuan terhadap sistem                                                       |
+| -------------|------------------------------------------------------------------------------|
+| Mahasiswa    | Melihat jadwal kuliah, mengajukan KRS, dan mengunduh bukti pengajuan         |
+| Dosen Wali   | Memproses persetujuan atau penolakan KRS serta memberikan catatan keputusan. |
+|Admin Akademik| Mengelola jadwal kuliah                                                      |
 
 <!-- Tabel Katalog use case -->
 |   ID   |      Nama use case      |      Peran dalam model       |
 |--------|-------------------------|------------------------------|
-|LAB-UC01|   Lihat jadwal kuliah   |    Fungsi utama mahasiswa    |
-|LAB-UC02|  Kelola jadwal kuliah   | Fungsi utama admin akademik  |
-|LAB-UC03|       Ajukan KRS        |    Fungsi utama mahasiswa    |
-|LAB-UC04|      Validasi KRS       |Perilaku yang disertakan UC03 |
-|LAB-UC05|Unduh bukti pengajuan KRS| Tambahan bersyarat pada UC03 |
-|LAB-UC06|  Proses keputusan KRS   |   Fungsi utama Dosen Wali    |
+|SIA-UC01|   Lihat jadwal kuliah   |    Fungsi utama mahasiswa    |
+|SIA-UC02|  Kelola jadwal kuliah   | Fungsi utama admin akademik  |
+|SIA-UC03|       Ajukan KRS        |    Fungsi utama mahasiswa    |
+|SIA-UC04|      Validasi KRS       |Perilaku yang disertakan UC03 |
+|SIA-UC05|Unduh bukti pengajuan KRS| Tambahan bersyarat pada UC03 |
+|SIA-UC06|  Proses keputusan KRS   |   Fungsi utama Dosen Wali    |
 
 
 
